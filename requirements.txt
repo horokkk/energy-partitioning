@@ -1,0 +1,8 @@
+torch>=1.13
+torchvision
+transformers
+ultralytics
+pandas
+numpy
+matplotlib
+pyserial
